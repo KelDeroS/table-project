@@ -1,0 +1,1642 @@
+{
+    "id": "855f06e9-02dc-4007-805d-610a6580b74b",
+    "type": "CONSUMPTION_AND_PAYMENT_TEMPLATE",
+    "partitionList": [
+        {
+            "id": "33975ba7-7c55-4122-86e0-6354338d4641",
+            "index": 0,
+            "detailsSet": [
+                {
+                    "id": "37f9ac56-4f4e-4c21-a896-492ea98860c9",
+                    "type": "DETAILS",
+                    "index": 0,
+                    "rowList": [
+                        {
+                            "id": "b737f714-5fe5-4b88-86b0-a06e69cd9e6c",
+                            "type": "V5P1T1_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "65549530-2583-42ff-acf4-0447c0c99360",
+                                    "name": "inKind",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "b8599fdd-bc34-4715-ac6b-4d381a2842d0",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в натуральном выражении — Природный газ, тыс. куб. м.",
+                                        "code": "205001",
+                                        "indexNumber": 9778,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "7d91c6d7-2f9e-4b7a-8f9c-0a8e48fb9588",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:18.780469",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "511bad94-be62-4387-b71f-86fcd53ba9fd",
+                                    "name": "inValueTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "ffc405a8-3049-4c8c-a33e-edcc3e77ae27",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в стоимостном выражении, тыс. руб. — Природный газ, тыс. куб. м.",
+                                        "code": "205002",
+                                        "indexNumber": 9780,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "6f2679a0-f965-4ad0-a34d-a2ce8a5489c7",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:18.872182",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "7800ecbe-607b-46cc-bdfb-01b254f0fbfe",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "ede84e0a-53a1-4101-8402-f0cafa470e93",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — всего — Природный газ, тыс. куб. м.",
+                                        "code": "205003",
+                                        "indexNumber": 9782,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "a3870408-fe51-4d7c-ad60-1b45de38fff7",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:18.933471",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "f375843c-4ae5-4e4c-a051-b9d718fadadf",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "296b4f47-9d93-4252-a491-6112fbad5754",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — в том числе: взаимозачетом — Природный газ, тыс. куб. м.",
+                                        "code": "205004",
+                                        "indexNumber": 9784,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "2df1e0f4-a01e-4591-beb4-6483591480c9",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.000127",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "95ee5af3-128a-451a-aa80-4464c202057a",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "8d35454f-9e24-4c21-b6f9-6a16eb19766e",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — в том числе: в денежном выражении — Природный газ, тыс. куб. м.",
+                                        "code": "205005",
+                                        "indexNumber": 9786,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "d37589d4-7040-42b8-a9ea-1f8cf99d6786",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.086351",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "ae2df8af-074d-4cab-8b51-be72b216960e",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "0511e9b6-aa65-4d53-a8c7-0531a96d2d65",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Природный газ, тыс. куб. м.",
+                                        "code": "205006",
+                                        "indexNumber": 9788,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "55aaf19e-ae08-4e06-b4c7-607ea82a64b6",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.119113",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 1,
+                            "name": "Природный газ, тыс. куб. м.",
+                            "rowNumber": "01",
+                            "inKind": null,
+                            "inValueTerms": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        },
+                        {
+                            "id": "4314d15f-3262-4334-bbf7-fcd9c509578d",
+                            "type": "V5P1T1_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "ed8a3455-db1d-42c1-8e77-4a8a67d08ccb",
+                                    "name": "inKind",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "ec71f9e3-d267-4a0e-8c17-0623c36e5398",
+                                    "name": "inValueTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "fc361668-dd93-4af1-b7a1-1f7db3c7d346",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в стоимостном выражении, тыс. руб. — Природный газ, индексация",
+                                        "code": "205007",
+                                        "indexNumber": 9790,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "bf81ce5e-4e8e-4772-a3eb-a57fabcb0f63",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.185692",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "43adde8a-d479-4425-a969-4628676184a4",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "af9e4683-7d71-49f1-baa5-3fa17018af2c",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — всего — Природный газ, индексация",
+                                        "code": "205008",
+                                        "indexNumber": 9792,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "f4725070-c727-41e8-8ac5-75082c81545f",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.235351",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "fb286c9d-d26b-4207-9339-02f3c46a039c",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "968abef5-93c2-4e14-a0b3-3d2e68364a2c",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "5c75241f-6dce-45d6-958f-a890de116e5f",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "e897f75f-c6f9-481f-b7ae-59aeab808cba",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Природный газ, индексация",
+                                        "code": "205009",
+                                        "indexNumber": 9794,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "6c885bc4-c35b-4ab8-aae2-e798471f13e0",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.279597",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 2,
+                            "name": "Природный газ, индексация",
+                            "rowNumber": "02",
+                            "inKind": null,
+                            "inValueTerms": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        },
+                        {
+                            "id": "28166094-cd34-48bb-94d8-2958b85b6b45",
+                            "type": "V5P1T1_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "0060cb23-79fd-439a-a7b0-d6553ab80d72",
+                                    "name": "inKind",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "fed6e742-1a7c-452f-bb45-3934a32d497e",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в натуральном выражении — Электрическая энергия, тыс. кВт*ч",
+                                        "code": "205010",
+                                        "indexNumber": 9796,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "e616b879-5185-4d92-bd3b-0ba204a16829",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.321521",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "a7516ace-3929-49aa-8b21-bc4ad9e4eecb",
+                                    "name": "inValueTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "960a043d-8e07-4122-8cac-c575dfda5c2c",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в стоимостном выражении, тыс. руб. — Электрическая энергия, тыс. кВт*ч",
+                                        "code": "205011",
+                                        "indexNumber": 9798,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "9d9fa088-6a92-491c-a53d-b04b979fc4cf",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.367736",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "67499200-60c6-4c39-bc08-61592d924d47",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "6bf0dd9b-a886-4574-b237-1434f4f7b018",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — всего — Электрическая энергия, тыс. кВт*ч",
+                                        "code": "205012",
+                                        "indexNumber": 9800,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "62d2cf1e-58e9-43ba-a2dc-7e61981237a2",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.449896",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "2e87de79-7050-4c8d-9bf4-f48b619a9384",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "d8663ffe-d18f-4f1c-83fb-ac85d8a1efba",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — в том числе: взаимозачетом — Электрическая энергия, тыс. кВт*ч",
+                                        "code": "205013",
+                                        "indexNumber": 9802,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "5cda3003-e4fb-40ee-b60e-9444a5afaefa",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.540662",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "4c0a805d-f69d-4afc-81ee-f0a6e322c064",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "7d6d9ec8-fbc4-403a-a425-e2f8e6854217",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — в том числе: в денежном выражении — Электрическая энергия, тыс. кВт*ч",
+                                        "code": "205014",
+                                        "indexNumber": 9804,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "cbc7c6c0-6178-4e3f-bf1f-e113deb06cf9",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.59445",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "b7e38273-2718-4ddd-a646-9ed1158ae196",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "cf9d626a-bb83-4e92-8601-f729d8382bbf",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Электрическая энергия, тыс. кВт*ч",
+                                        "code": "205015",
+                                        "indexNumber": 9806,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "d3e2284f-6502-4845-9a66-670f3278bd14",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.66934",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 3,
+                            "name": "Электрическая энергия, тыс. кВт*ч",
+                            "rowNumber": "03",
+                            "inKind": null,
+                            "inValueTerms": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        },
+                        {
+                            "id": "de55f97a-e3a7-4ed5-bc7b-faf1244df1ba",
+                            "type": "V5P1T1_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "5df099b7-f0a4-4e49-b52f-e87a42f4421e",
+                                    "name": "inKind",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "49c4b7f9-4c80-44b4-8131-2a29f3bbc5b1",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в натуральном выражении — Электрическая энергия, тыс. кВт",
+                                        "code": "205016",
+                                        "indexNumber": 9808,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "883f1992-b6d3-492e-90f6-8ef2d1daa09e",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.735564",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "852b66b6-4913-4c1b-a1b4-23f2585b9e73",
+                                    "name": "inValueTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "615cfd12-b446-40b3-a72b-8281a5d9805f",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в стоимостном выражении, тыс. руб. — Электрическая энергия, тыс. кВт",
+                                        "code": "205017",
+                                        "indexNumber": 9810,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "d0f1db1d-eac6-4664-ae25-a3c5dbd50381",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.788499",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "d316fe52-a3dc-465b-a9ca-7cf7ef3740b6",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "82661c05-b926-4d77-b177-769b25e015a4",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — всего — Электрическая энергия, тыс. кВт",
+                                        "code": "205018",
+                                        "indexNumber": 9812,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "e88e462e-3148-41bc-b9f9-0aae8a809bef",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.841741",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "e0df57a7-de22-4242-8f58-674860ae581e",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "a0e071b2-3dd4-4536-a31f-c5d017d986ed",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — в том числе: взаимозачетом — Электрическая энергия, тыс. кВт",
+                                        "code": "205019",
+                                        "indexNumber": 9814,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "df77d2c0-356a-40e6-8b70-952c53bd6adc",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.904352",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "6dadf564-53e2-48fd-9e9d-de3fa25a652c",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "640aaa9a-e030-4a44-8742-2bce724206a5",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — в том числе: в денежном выражении — Электрическая энергия, тыс. кВт",
+                                        "code": "205020",
+                                        "indexNumber": 9816,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "69eb4519-46d3-4ded-8717-034b41cdeae8",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:19.979889",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "cf3abd23-6a55-4ace-9ae3-3859ae64b95a",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "776f3e2a-d526-417c-b64d-e03608aeef66",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Электрическая энергия, тыс. кВт",
+                                        "code": "205021",
+                                        "indexNumber": 9818,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "41f581aa-27bf-4b7c-afb8-a703a8e71e97",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.025797",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 4,
+                            "name": "Электрическая энергия, тыс. кВт",
+                            "rowNumber": "04",
+                            "inKind": null,
+                            "inValueTerms": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        },
+                        {
+                            "id": "5a149e0f-6f9e-4668-b2be-0a43eadb42f0",
+                            "type": "V5P1T1_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "98bfedc7-54a9-4d37-84a7-32c6b97ff930",
+                                    "name": "inKind",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "ea1e7486-12a6-4090-9480-ef62a89afde5",
+                                    "name": "inValueTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "d8f802f6-6a26-44bf-ab39-8f657e1c3417",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в стоимостном выражении, тыс. руб. — Электрическая энергия, индексация",
+                                        "code": "205022",
+                                        "indexNumber": 9820,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "d1892882-309b-4dc5-adbc-7764ab65b2fb",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.08456",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "0221e016-ac77-4811-abd9-f1e523efb4f8",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "ca4127b5-0d1e-4408-b95a-291a5213a656",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — всего — Электрическая энергия, индексация",
+                                        "code": "205023",
+                                        "indexNumber": 9822,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "32cc2df5-5b87-453f-81e0-7d2974ddcc25",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.135522",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "4554ac17-24fb-4707-a4dd-b14113cd485d",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "b24eefa6-6b09-49e6-a33c-712c85d55c20",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "29756353-6bdc-4b7b-809f-bcacc9749702",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "262d6053-ea76-4841-8b38-522c0d96e3c9",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Электрическая энергия, индексация",
+                                        "code": "205024",
+                                        "indexNumber": 9824,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "b54d4d0b-df99-4c74-942c-5ed1d41446a4",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.187143",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 5,
+                            "name": "Электрическая энергия, индексация",
+                            "rowNumber": "05",
+                            "inKind": null,
+                            "inValueTerms": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        },
+                        {
+                            "id": "052157a3-229e-4a7e-b167-5c454bd5b69e",
+                            "type": "V5P1T1_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "4ac70379-ead4-4c5e-b323-758928b5fa1d",
+                                    "name": "inKind",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "7178c7b6-aa2b-473d-9470-1e7e31d58c1c",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в натуральном выражении — Тепловая энергия, Гкал",
+                                        "code": "205025",
+                                        "indexNumber": 9826,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "2d2a0711-aba8-4a78-b7fa-80457e6c37d2",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.25598",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "87f187d8-3780-4478-8602-3ef9cd5e9b44",
+                                    "name": "inValueTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "45eb4fa7-6cae-4715-8cf9-7e1c18b9de6b",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в стоимостном выражении, тыс. руб. — Тепловая энергия, Гкал",
+                                        "code": "205026",
+                                        "indexNumber": 9828,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "3a66b765-cde2-4f95-88f4-471875dfc0c0",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.324058",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "ee0d7b87-b9fa-49ad-a625-4b8bccddb642",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "e50888af-7f5e-4de3-8d66-8158df22d01f",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — всего — Тепловая энергия, Гкал",
+                                        "code": "205027",
+                                        "indexNumber": 9830,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "40a0757b-dbfc-443e-bd85-f3db03703dd5",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.402477",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "8f476b4e-4588-47fb-a802-4a0a0ec45b6e",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "d0332c44-5259-4e3e-bc0a-ca1c8b215ec7",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — в том числе: взаимозачетом — Тепловая энергия, Гкал",
+                                        "code": "205028",
+                                        "indexNumber": 9832,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "6d30c75d-00f3-4c9e-8802-da20703e3d3e",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.479876",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "84fcea37-89e5-46f0-a3ae-c343bef995fb",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "d7b1418c-bf19-4a8d-9068-f24b7c76983b",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — в том числе: в денежном выражении — Тепловая энергия, Гкал",
+                                        "code": "205029",
+                                        "indexNumber": 9834,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "879c87c1-464c-493c-ae51-18b0151de0b5",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.559531",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "006c58a8-31d4-4760-b51b-3983b0e3d3fa",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "45aedf2c-ef57-4c46-bb77-af09f75c5ea9",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Тепловая энергия, Гкал",
+                                        "code": "205030",
+                                        "indexNumber": 9836,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "2ad84e4e-a22b-4729-97c7-8cbf4719ecce",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.631104",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 6,
+                            "name": "Тепловая энергия, Гкал",
+                            "rowNumber": "06",
+                            "inKind": null,
+                            "inValueTerms": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        },
+                        {
+                            "id": "38b41ba7-627d-46f5-97cc-6fc6b7993de5",
+                            "type": "V5P1T1_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "00178d6b-d4b0-4b6e-8d79-51dcbb014276",
+                                    "name": "inKind",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "bc2ed82c-e5a5-4b91-a192-39e00e1d70bc",
+                                    "name": "inValueTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "1948ec22-17bb-483f-abcc-bbd6f8ba47ce",
+                                        "name": "Потреблено с учетом окончательного расчета за отчетный месяц — в стоимостном выражении, тыс. руб. — Тепловая энергия, индексация",
+                                        "code": "205031",
+                                        "indexNumber": 9838,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "e205fb1b-5a50-432b-9d05-c114055768e9",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.697541",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "1ad4073d-72af-47bf-b617-65ce75c3dbb1",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "91eb0608-8b32-4208-b734-886a1e363ebc",
+                                        "name": "Оплачено за отчетный месяц, тыс. руб. — всего — Тепловая энергия, индексация",
+                                        "code": "205032",
+                                        "indexNumber": 9840,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "bfed34f8-717f-4604-a867-8080971610a1",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.772781",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "23b1453a-67a3-4734-af58-b347b2cd56a6",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "32f932a2-f37a-44dc-9b6a-283e1479556e",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "2c22a9a7-5242-4bc5-8e1a-f7a249ba5800",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "5379a477-c8ea-44e6-89ea-782d99b22171",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Тепловая энергия, индексация",
+                                        "code": "205033",
+                                        "indexNumber": 9842,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "0c793ca5-ef82-4f7b-8269-41843e48cbe2",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.823116",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 7,
+                            "name": "Тепловая энергия, индексация",
+                            "rowNumber": "07",
+                            "inKind": null,
+                            "inValueTerms": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        }
+                    ],
+                    "neoHeaderList": [
+                        {
+                            "id": "7cd5b79b-82d8-462f-adc3-25a1d6dfafa1",
+                            "index": 0,
+                            "headerRow": 0,
+                            "headerColumn": 0,
+                            "value": "Наименование показателя",
+                            "colSpan": 1,
+                            "rowSpan": 3
+                        },
+                        {
+                            "id": "ec33a120-fc27-4f52-9717-cf80a416d0e4",
+                            "index": 1,
+                            "headerRow": 0,
+                            "headerColumn": 1,
+                            "value": "Номер строки",
+                            "colSpan": 1,
+                            "rowSpan": 3
+                        },
+                        {
+                            "id": "221ac073-aefc-4d7b-8228-bf07e73af48b",
+                            "index": 2,
+                            "headerRow": 0,
+                            "headerColumn": 2,
+                            "value": "Потреблено с учетом окончательного расчета за отчетный месяц",
+                            "colSpan": 2,
+                            "rowSpan": 2
+                        },
+                        {
+                            "id": "fbb7780e-dae3-4555-9e39-0c286bd6b095",
+                            "index": 3,
+                            "headerRow": 2,
+                            "headerColumn": 2,
+                            "value": "в натуральном выражении",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "7a5c73a3-0f68-43ce-9741-07bec42fe33a",
+                            "index": 4,
+                            "headerRow": 2,
+                            "headerColumn": 3,
+                            "value": "в стоимостном выражении, тыс.руб.",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "dffc11c8-bdc3-4eda-96ae-5fbf953c7539",
+                            "index": 5,
+                            "headerRow": 0,
+                            "headerColumn": 4,
+                            "value": "Оплачено за отчетный месяц, тыс.руб.",
+                            "colSpan": 3,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "123708d1-ee8e-43b4-882f-579ff993cb74",
+                            "index": 6,
+                            "headerRow": 1,
+                            "headerColumn": 4,
+                            "value": "всего",
+                            "colSpan": 1,
+                            "rowSpan": 2
+                        },
+                        {
+                            "id": "c4d289d1-36d6-4d59-adc4-8ef719609447",
+                            "index": 7,
+                            "headerRow": 1,
+                            "headerColumn": 5,
+                            "value": "в том числе",
+                            "colSpan": 2,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "8774a2d7-24e8-488e-b25c-cc104b9cc8e1",
+                            "index": 8,
+                            "headerRow": 2,
+                            "headerColumn": 5,
+                            "value": "взаимозачетом",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "92f1c41b-ba20-4ab8-8e80-122dcc22874f",
+                            "index": 9,
+                            "headerRow": 2,
+                            "headerColumn": 6,
+                            "value": "в денежном выражении",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "2e46ef79-6d0e-4295-be6e-b3eb49413092",
+                            "index": 10,
+                            "headerRow": 0,
+                            "headerColumn": 7,
+                            "value": "Сальдо на конец отчетного месяца, тыс.руб.",
+                            "colSpan": 1,
+                            "rowSpan": 3
+                        },
+                        {
+                            "id": "6eebbd0d-4d8e-496d-8d9c-f44d986fcf68",
+                            "index": 11,
+                            "headerRow": 3,
+                            "headerColumn": 0,
+                            "value": "А",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "a65dbd0d-f72b-4846-b5d1-b12744963102",
+                            "index": 12,
+                            "headerRow": 3,
+                            "headerColumn": 1,
+                            "value": "Б",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "a6abda12-6422-4f4a-a219-516ca4ebd844",
+                            "index": 13,
+                            "headerRow": 3,
+                            "headerColumn": 2,
+                            "value": "1",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "531a0b2a-5b8e-45d0-8805-74cfbdb33b0d",
+                            "index": 14,
+                            "headerRow": 3,
+                            "headerColumn": 3,
+                            "value": "2",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "4c30b439-6566-43be-b1d3-d68bc4ce2a7b",
+                            "index": 15,
+                            "headerRow": 3,
+                            "headerColumn": 4,
+                            "value": "3",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "e5c66422-86ca-466b-8591-e94b39890a9d",
+                            "index": 16,
+                            "headerRow": 3,
+                            "headerColumn": 5,
+                            "value": "4",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "0a159ef2-d3df-4e57-88e6-e98295a895a3",
+                            "index": 17,
+                            "headerRow": 3,
+                            "headerColumn": 6,
+                            "value": "5",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "2e8a75d3-b363-4c8f-8ab5-ae80a16a9be2",
+                            "index": 18,
+                            "headerRow": 3,
+                            "headerColumn": 7,
+                            "value": "6",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "65a917bc-8e83-4874-bb1c-38c79d88a4d2",
+            "index": 1,
+            "detailsSet": [
+                {
+                    "id": "b288a46f-d62a-4e56-be30-b771f3dafa6f",
+                    "type": "DETAILS",
+                    "index": 1,
+                    "rowList": [
+                        {
+                            "id": "aedd2bcc-4b91-434b-b472-c88217d6f891",
+                            "type": "V5P1T2_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "3c064162-bd8e-4e10-8726-ad7ee08117c7",
+                                    "name": "debtOfPrevious",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "d3a36b12-6422-4ba3-a6a5-c99039dbef07",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "9f079760-6428-4e64-8771-40099acd971d",
+                                        "name": "Оплачено за отчетный месяц — всего, тыс. руб. — Природный газ, индексация",
+                                        "code": "205034",
+                                        "indexNumber": 9844,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "aa96e858-3b1c-4fbc-9f92-cf3f67db377c",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.895779",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "47de1bab-4ed5-4884-8528-9e192c915b08",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "da88e3e0-9c3a-4a53-9fe4-81ec8fe3bb90",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "ce42a03b-32f8-4e69-a2fb-5a8563e4f565",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "861c0ebe-30b9-4102-b093-46caea105b4b",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Природный газ, индексация",
+                                        "code": "205035",
+                                        "indexNumber": 9846,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "f7402ce0-e3cf-4742-871c-30f14ca781f8",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:20.954958",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 1,
+                            "name": "Природный газ, индексация",
+                            "rowNumber": "01",
+                            "debtOfPrevious": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        },
+                        {
+                            "id": "1daf0226-e748-4a7c-86bf-b95a88140cfd",
+                            "type": "V5P1T2_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "cef9ed49-bffc-4acc-be83-38352052f0a0",
+                                    "name": "debtOfPrevious",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "4417581c-c068-430e-bf9e-e8529ec22f41",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "65378086-52fb-44fa-a854-99f4148644c2",
+                                        "name": "Оплачено за отчетный месяц — всего, тыс. руб. — Электрическая энергия, индексация",
+                                        "code": "205036",
+                                        "indexNumber": 9848,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "7f03ac4a-77fa-4f24-aaac-f0981247cd59",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:21.02078",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "391292e2-abd3-4aac-9007-d5593acb31c4",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "338b364b-9d67-4d93-a6c1-5ef234cc101a",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "ba6f68c3-c5eb-4966-84e0-9f5b503927ae",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "0989651a-44a3-4fde-820b-ea4b19a69324",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Электрическая энергия, индексация",
+                                        "code": "205037",
+                                        "indexNumber": 9850,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "ef6481e8-1a34-4125-bc12-513694f6498b",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:21.066724",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 2,
+                            "name": "Электрическая энергия, индексация",
+                            "rowNumber": "02",
+                            "debtOfPrevious": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        },
+                        {
+                            "id": "d7c232ba-4816-4e5c-b93f-3503c375ed90",
+                            "type": "V5P1T2_ROW",
+                            "indicatorList": [
+                                {
+                                    "id": "adbe9452-7c09-4434-9e1c-fc436cd18c97",
+                                    "name": "debtOfPrevious",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "270d41d9-6a1c-4cd0-b9b2-2a693d8ca63a",
+                                    "name": "total",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "75466425-196e-4071-ba83-c3db63ddef84",
+                                        "name": "Оплачено за отчетный месяц — всего, тыс. руб. — Тепловая энергия, индексация",
+                                        "code": "205038",
+                                        "indexNumber": 9852,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "f7d73a26-df10-4b02-b7dc-501a5fe48a52",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:21.109989",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                },
+                                {
+                                    "id": "9992d150-6ffd-41ff-b079-084db00d782f",
+                                    "name": "netting",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "cafabe02-47fb-4044-8d27-965231818d37",
+                                    "name": "inMoneyTerms",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": null
+                                },
+                                {
+                                    "id": "350dffb9-2bcb-48c6-9734-5975c9bc67b9",
+                                    "name": "balanceOfReportingMonth",
+                                    "value": null,
+                                    "stringValue": null,
+                                    "index": null,
+                                    "indicatorsClassifier": {
+                                        "id": "8177f080-7cee-4aae-919c-490cee0a1e26",
+                                        "name": "Сальдо на конец отчетного месяца, тыс. руб. — Тепловая энергия, индексация",
+                                        "code": "205039",
+                                        "indexNumber": 9854,
+                                        "revisionNumber": 0,
+                                        "unifyingId": "8e06265f-7f5a-41fd-8e88-a6f17a7cc429",
+                                        "startDate": "2024-08-14T13:34:29.1",
+                                        "endDate": "2024-08-14T13:34:29.1",
+                                        "creationDate": "2024-10-03T13:58:21.16266",
+                                        "active": false,
+                                        "indicatorsGroup": null,
+                                        "formula": null,
+                                        "financialReportingIndicator": null,
+                                        "expectedIndicator": null,
+                                        "financialStatementsIndicator": null,
+                                        "attributeMeshSet": []
+                                    }
+                                }
+                            ],
+                            "index": 3,
+                            "name": "Тепловая энергия, индексация",
+                            "rowNumber": "03",
+                            "debtOfPrevious": null,
+                            "total": null,
+                            "netting": null,
+                            "inMoneyTerms": null,
+                            "balanceOfReportingMonth": null
+                        }
+                    ],
+                    "neoHeaderList": [
+                        {
+                            "id": "3cd2614a-8d2b-4c28-b564-ca39666c6cbd",
+                            "index": 0,
+                            "headerRow": 0,
+                            "headerColumn": 0,
+                            "value": "Задолженность прошлых периодов",
+                            "colSpan": 7,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "b58bb002-8057-48d6-84d5-22a9b516916c",
+                            "index": 1,
+                            "headerRow": 1,
+                            "headerColumn": 0,
+                            "value": "Сальдо на начало года с учетом <<->> предоплаты, тыс.руб.",
+                            "colSpan": 7,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "21167df1-cde0-4920-8675-383613b8c0e7",
+                            "index": 2,
+                            "headerRow": 2,
+                            "headerColumn": 0,
+                            "value": "Наименование показателя",
+                            "colSpan": 1,
+                            "rowSpan": 3
+                        },
+                        {
+                            "id": "c82dba6b-c065-41ac-9fe7-cc27ff186975",
+                            "index": 3,
+                            "headerRow": 2,
+                            "headerColumn": 1,
+                            "value": "Номер строки",
+                            "colSpan": 1,
+                            "rowSpan": 3
+                        },
+                        {
+                            "id": "ab254bdd-fccc-402e-a4ea-26752ea81ce0",
+                            "index": 4,
+                            "headerRow": 2,
+                            "headerColumn": 2,
+                            "value": "Задолженность прошлых периодов, тыс.руб.",
+                            "colSpan": 1,
+                            "rowSpan": 3
+                        },
+                        {
+                            "id": "110646f1-db25-42a5-9821-ece5d8fc5c95",
+                            "index": 5,
+                            "headerRow": 2,
+                            "headerColumn": 3,
+                            "value": "Оплачено за отчетный месяц, тыс.руб.",
+                            "colSpan": 3,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "0a49ed9a-9e24-41ce-8337-f2e9cc988d5b",
+                            "index": 6,
+                            "headerRow": 3,
+                            "headerColumn": 3,
+                            "value": "всего",
+                            "colSpan": 1,
+                            "rowSpan": 2
+                        },
+                        {
+                            "id": "219a3705-076e-4310-921d-9d747ba6da2b",
+                            "index": 7,
+                            "headerRow": 3,
+                            "headerColumn": 4,
+                            "value": "в том числе",
+                            "colSpan": 2,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "8afc8665-4dda-4ded-a920-9ea0a98fe662",
+                            "index": 8,
+                            "headerRow": 4,
+                            "headerColumn": 4,
+                            "value": "взаимозачетом",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "b93c6e14-40f5-4f08-8863-80856d0042d1",
+                            "index": 9,
+                            "headerRow": 4,
+                            "headerColumn": 5,
+                            "value": "в денежном выражении",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "5d804fc6-c744-4858-ae38-fa73e65a5053",
+                            "index": 10,
+                            "headerRow": 2,
+                            "headerColumn": 6,
+                            "value": "Сальдо на конец отчетного месяца, тыс.руб.",
+                            "colSpan": 1,
+                            "rowSpan": 3
+                        },
+                        {
+                            "id": "16e0b385-69a4-409b-9b4c-bf8ef9034fec",
+                            "index": 11,
+                            "headerRow": 5,
+                            "headerColumn": 0,
+                            "value": "А",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "98a222f0-a541-404c-a7f7-22a4099e1e7e",
+                            "index": 12,
+                            "headerRow": 5,
+                            "headerColumn": 1,
+                            "value": "Б",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "1c3391ab-6702-451b-8ad4-5a94b4503c17",
+                            "index": 13,
+                            "headerRow": 5,
+                            "headerColumn": 2,
+                            "value": "1",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "1198361a-ae12-4abb-a362-01a30c1b3e20",
+                            "index": 14,
+                            "headerRow": 5,
+                            "headerColumn": 3,
+                            "value": "2",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "535a517f-aa7a-46db-aaf9-d5ed5316f65e",
+                            "index": 15,
+                            "headerRow": 5,
+                            "headerColumn": 4,
+                            "value": "3",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "195f52af-9c8e-49a9-b8d8-6d8599d08006",
+                            "index": 16,
+                            "headerRow": 5,
+                            "headerColumn": 5,
+                            "value": "4",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        },
+                        {
+                            "id": "af98120c-ef1a-4fd5-869f-ff57ae04173a",
+                            "index": 17,
+                            "headerRow": 5,
+                            "headerColumn": 6,
+                            "value": "5",
+                            "colSpan": 1,
+                            "rowSpan": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "indexNumber": 0,
+    "revisionNumber": 0,
+    "unifyingId": "0c1296b5-ef69-4221-bf3a-3eb34b88c91e",
+    "startDate": null,
+    "endDate": null,
+    "creationDate": "2024-10-03T13:58:21.226474",
+    "active": true
+}
